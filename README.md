@@ -34,6 +34,12 @@
         <td>Small university project game</td>
         <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">https://github.com/AitorAstorga/Nom-Nom-2020</a></td>
       </tr>
+      <tr>
+        <td>Generador Ranking y Liga</td>
+        <td>2021</td>
+        <td>Example of automatic results management for sports federations</td>
+        <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">https://github.com/AitorAstorga/Generador-Ranking-y-Liga</a></td>
+      </tr>
     </table>
   </li>
 
