@@ -5,13 +5,42 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aitorastorga" alt="aitorastorga" /></a> </p>
 
-- 🔭 I’m currently working at **AEG Power Solutions**
+<ul>
+  <li>🔭 I’m currently working at <b>AEG Power Solutions</b></li>
+  <li>👨‍💻 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a>
+  <li>:computer: My projects:
+    <table>
+      <tr>
+        <th>Project name</th>
+        <th>Date</th>
+        <th>Description</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>Fallen God</td>
+        <td>2019</td>
+        <td>University project game</td>
+        <td><a href="https://github.com/UN41/FALLEN_GOD">https://github.com/UN41/FALLEN_GOD</a></td>
+      </tr>
+      <tr>
+        <td>The Last King</td>
+        <td>2020</td>
+        <td>Small university chess game</td>
+        <td><a href="https://github.com/AitorAstorga/The-Last-King">https://github.com/AitorAstorga/The-Last-King</a></td>
+      </tr>
+      <tr>
+        <td>Nom Nom 2020</td>
+        <td>2020</td>
+        <td>Small university project game</td>
+        <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">https://github.com/AitorAstorga/Nom-Nom-2020</a></td>
+      </tr>
+    </table>
+  </li>
 
-- 👨‍💻 All of my projects are available at [https://aitorastorga.github.io/cv](https://aitorastorga.github.io/cv)
+  <li>📫 How to reach me <b>a.astorga.sdv@gmail.com</b></li>
 
-- 📫 How to reach me **a.astorga.sdv@gmail.com**
-
-- ⚡ Fun fact **I practise fencing!**
+  <li>⚡ Fun fact <b>I practise fencing!</b></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
