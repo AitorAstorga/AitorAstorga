@@ -13,38 +13,38 @@
       <tr>
         <th>Project name</th>
         <th>Date</th>
+        <th>Lang</th>
         <th>Description</th>
-        <th>Link</th>
       </tr>
       <tr>
-        <td>Fallen God</td>
+        <td><a href="https://github.com/UN41/FALLEN_GOD">Fallen God</a></td>
         <td>2019</td>
+        <td>C</td>
         <td>University project game</td>
-        <td><a href="https://github.com/UN41/FALLEN_GOD">https://github.com/UN41/FALLEN_GOD</a></td>
       </tr>
       <tr>
-        <td>The Last King</td>
+        <td><a href="https://github.com/AitorAstorga/The-Last-King">The Last King</a></td>
         <td>2020</td>
+        <td>C</td>
         <td>Small university chess game</td>
-        <td><a href="https://github.com/AitorAstorga/The-Last-King">https://github.com/AitorAstorga/The-Last-King</a></td>
       </tr>
       <tr>
-        <td>Nom Nom 2020</td>
+        <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">Nom Nom 2020</a></td>
         <td>2020</td>
+        <td>C</td>
         <td>Small university project game</td>
-        <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">https://github.com/AitorAstorga/Nom-Nom-2020</a></td>
       </tr>
       <tr>
-        <td>Generador Ranking y Liga</td>
+        <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">Generador Ranking y Liga</a></td>
         <td>2021</td>
+        <td>Java</td>
         <td>Example of automatic results management for sports federations</td>
-        <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">https://github.com/AitorAstorga/Generador-Ranking-y-Liga</a></td>
       </tr>
       <tr>
-        <td>Thadah D. Denyse</td>
+        <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
         <td>∞</td>
+        <td>♡</td>
         <td>Mine :D</td>
-        <td><a href="https://github.com/Thadah">https://github.com/Thadah</a></td>
       </tr>
     </table>
   </li>
