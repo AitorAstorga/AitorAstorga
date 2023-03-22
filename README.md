@@ -40,6 +40,12 @@
         <td>Example of automatic results management for sports federations</td>
         <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">https://github.com/AitorAstorga/Generador-Ranking-y-Liga</a></td>
       </tr>
+      <tr>
+        <td>Thadah D. Denyse</td>
+        <td>∞</td>
+        <td>Mine :D</td>
+        <td><a href="https://github.com/Thadah">https://github.com/Thadah</a></td>
+      </tr>
     </table>
   </li>
 
