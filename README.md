@@ -41,6 +41,12 @@
         <td>Example of automatic results management for sports federations</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/mudamucop">muDamu</a></td>
+        <td>2022</td>
+        <td>Java</td>
+        <td>University proyect with AI</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
         <td>∞</td>
         <td>♡</td>
