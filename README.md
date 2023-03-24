@@ -41,6 +41,12 @@
         <td>Small university project game</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/AitorAstorga/MUlimpio">MUlimpio</a></td>
+        <td>2021</td>
+        <td>Java</td>
+        <td>University project that allows managing the staff of a cleaning team and assigning them disinfection tasks as necessary</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">Generador Ranking y Liga</a></td>
         <td>2021</td>
         <td>Java</td>
