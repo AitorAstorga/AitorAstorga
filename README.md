@@ -32,7 +32,7 @@
         <td><a href="https://github.com/AitorAstorga/Mumba">Mumba</a></td>
         <td>2020</td>
         <td>C</td>
-        <td>University proyect about a simulated autonomous robot</td>
+        <td>University project about a simulated autonomous robot</td>
       </tr>
       <tr>
         <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">Nom Nom 2020</a></td>
