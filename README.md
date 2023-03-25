@@ -7,7 +7,7 @@
 
 <ul>
   <li>🔭 I’m currently working at <b>AEG Power Solutions</b></li>
-  <li>👨‍💻 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a>
+  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a>
   <li>:computer: My projects:
     <table>
       <tr>
@@ -75,12 +75,13 @@
 
   <li>📫 How to reach me <b>a.astorga.sdv@gmail.com</b></li>
 
-  <li>⚡ Fun fact <b>I practise fencing!</b></li>
+  <li>⚔️ Fun fact <b>I practise fencing!</b>🤺</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aitor-astorga-saez-de-vicuña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aitor-astorga-saez-de-vicuña" height="30" width="40" /></a>
+<a href="https://stats.fm/31ckl3nshjdq5tgunc4woz7kajku" target="blank"><img align="center" src="https://user-images.githubusercontent.com/44289776/227742483-defde084-a73b-49b3-ab00-4e9d3a6fa6b2.png" alt="spotify" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
