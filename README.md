@@ -65,6 +65,12 @@
         <td>University proyect with AI</td>
       </tr>
       <tr>
+        <td><a href="https://github.com/AitorAstorga/BotBlocker">BotBlocker</a></td>
+        <td>2023</td>
+        <td>Java</td>
+        <td>Minecraft plugin for Bukkit/Spigot</td>
+      </tr>
+      <tr>
         <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
         <td>∞</td>
         <td>♡</td>
