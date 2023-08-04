@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aitor</h1>
-<h3 align="center">A dev from the Basque Country</h3>
+<h3 align="center">A dev from the Basque Country 🇪🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aitorastorga&label=Profile%20views&color=0e75b6&style=flat" alt="aitorastorga" /> </p>
 
@@ -10,9 +10,9 @@
 <ul>
   <li>🔭 I’m currently working at <b>AEG Power Solutions</b></li>
   <li>📚 I’m currently studying a <b>Master's Degree in Cybersecurity and Privacy</b> at <b>UOC (Universitat Oberta de Catalunya)</b></li>
-  <li>💻 I'm a <b>Graduate in Computer Science</b> by <b>Mondragon Unibertsitatea.</b></li>
-  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a> and  <a href="https://aichan.eus">https://aichan.eus</a>
-  <li>:computer: My projects:
+  <li>💻 I'm a <b>Graduate in Computer Science</b> by <b>Mondragon Unibertsitatea</b></li>
+  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and  <a href="https://www.aichan.eus">aichan.eus</a>
+  <li>💾 My projects:
     <table>
       <tr>
         <th>Project name</th>
