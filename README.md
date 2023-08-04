@@ -9,7 +9,8 @@
 
 <ul>
   <li>🔭 I’m currently working at <b>AEG Power Solutions</b></li>
-  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a>
+  <li>🔭 I’m currently studying at <b>UOC</b></li>
+  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">https://aitorastorga.github.io/cv</a> and  <a href="https://aichan.eus">https://aichan.eus</a>
   <li>:computer: My projects:
     <table>
       <tr>
@@ -67,10 +68,10 @@
         <td>University proyect with AI</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/AitorAstorga/BotBlocker">BotBlocker</a></td>
+        <td><a href="https://github.com/BotBlocker-Minecraft">BotBlocker</a></td>
         <td>2023</td>
         <td>Java</td>
-        <td>Minecraft plugin for Bukkit/Spigot</td>
+        <td>Minecraft mod/plugin for Bukkit/Spigot and Fabric</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
@@ -81,9 +82,9 @@
     </table>
   </li>
 
-  <li>📫 How to reach me <b>a.astorga.sdv@gmail.com</b></li>
+  <li>📫 How to reach me: <b>a.astorga.sdv@gmail.com</b></li>
 
-  <li>⚔️ Fun fact <b>I practise fencing!</b>🤺</li>
+  <li>⚔️ Fun fact: <b>I practise fencing!</b>🤺</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
