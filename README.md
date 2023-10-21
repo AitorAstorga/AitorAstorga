@@ -8,81 +8,106 @@
 </a> </p>
 
 <ul>
-  <li>🔭 I’m currently working at <b>AEG Power Solutions</b></li>
+  <li>🈺 I’m currently working at <b>AEG Power Solutions</b></li>
   <li>📚 I’m currently studying a <b>Master's Degree in Cybersecurity and Privacy</b> at <b>UOC (Universitat Oberta de Catalunya)</b></li>
   <li>💻 I'm a <b>Graduate in Computer Science</b> by <b>Mondragon Unibertsitatea</b></li>
-  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and  <a href="https://www.aichan.eus">aichan.eus</a>
-  <li>💾 My projects:
-    <table>
-      <tr>
-        <th>Project name</th>
-        <th>Date</th>
-        <th>Lang</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/UN41/FALLEN_GOD">Fallen God</a></td>
-        <td>2019</td>
-        <td>C</td>
-        <td>University project game</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AitorAstorga/The-Last-King">The Last King</a></td>
-        <td>2020</td>
-        <td>C</td>
-        <td>Small university chess game</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AitorAstorga/Mumba">Mumba</a></td>
-        <td>2020</td>
-        <td>C</td>
-        <td>University project about a simulated autonomous robot</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">Nom Nom 2020</a></td>
-        <td>2020</td>
-        <td>C</td>
-        <td>Small university project game</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/BoisCar">BoisCar</a></td>
-        <td>2021</td>
-        <td>Java</td>
-        <td>University project for an interactive control system for vehicles</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AitorAstorga/MUlimpio">MUlimpio</a></td>
-        <td>2021</td>
-        <td>Java</td>
-        <td>University project for managing a cleaning team and assign tasks</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">Generador Ranking y Liga</a></td>
-        <td>2021</td>
-        <td>Java</td>
-        <td>Example of automatic results management for sports federations</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/mudamucop">muDamu</a></td>
-        <td>2022</td>
-        <td>Java</td>
-        <td>University proyect with AI</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/BotBlocker-Minecraft">BotBlocker</a></td>
-        <td>2023</td>
-        <td>Java</td>
-        <td>Minecraft mod/plugin for Bukkit/Spigot and Fabric</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
-        <td>∞</td>
-        <td>♡</td>
-        <td>Mine :D</td>
-      </tr>
-    </table>
-  </li>
-
+  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and  <a href="https://www.aichan.eus">aichan.eus</a></li>
+</ul>
+  
+<table>
+  <tr>
+    <th colspan="4">✏️ My academic projects</th>
+  </tr>
+  <tr>
+    <th align=left>Project name</th>
+    <th align=left>Date</th>
+    <th align=left>Lang</th>
+    <th align=left>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UN41/FALLEN_GOD">Fallen God</a></td>
+    <td>2019</td>
+    <td>C</td>
+    <td>University project game</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/The-Last-King">The Last King</a></td>
+    <td>2020</td>
+    <td>C</td>
+    <td>Small university chess game</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/Mumba">Mumba</a></td>
+    <td>2020</td>
+    <td>C</td>
+    <td>University project about a simulated autonomous robot</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/Nom-Nom-2020">Nom Nom 2020</a></td>
+    <td>2020</td>
+    <td>C</td>
+    <td>Small university project game</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BoisCar">BoisCar</a></td>
+    <td>2021</td>
+    <td>Java</td>
+    <td>University project for an interactive control system for vehicles</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/MUlimpio">MUlimpio</a></td>
+    <td>2021</td>
+    <td>Java</td>
+    <td>University project for managing a cleaning team and assign tasks</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/Generador-Ranking-y-Liga">Generador Ranking y Liga</a></td>
+    <td>2021</td>
+    <td>Java</td>
+    <td>Example of automatic results management for sports federations</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mudamucop">muDamu</a></td>
+    <td>2022</td>
+    <td>Java</td>
+    <td>University proyect with AI</td>
+  </tr>
+  <tr>
+    <th colspan="4">🎨 My personal projects</th>
+  </tr>
+  <tr>
+    <th align=left>Project name</th>
+    <th align=left>Date</th>
+    <th align=left>Lang</th>
+    <th align=left>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/BotBlocker-Minecraft">BotBlocker</a></td>
+    <td>2023</td>
+    <td>Java</td>
+    <td>Minecraft mod/plugin for Bukkit/Spigot and Fabric</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/garuda-linux-customisations">Garuda Linux Customisations</a></td>
+    <td>2023</td>
+    <td>Rust, Bash</td>
+    <td>KDE Plasma customisation backup tool</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/my-tampermonkey-scripts">My Tampermonkey Scripts</a></td>
+    <td>2023</td>
+    <td>JavaScript</td>
+    <td>Scripts for use with the Tampermonkey web browser plugin</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
+    <td>∞</td>
+    <td>♡</td>
+    <td>Mine :D</td>
+  </tr>
+</table>
+  
+<ul>
   <li>📫 How to reach me: <b>a.astorga.sdv@gmail.com</b></li>
 
   <li>⚔️ Fun fact: <b>I practise fencing!</b>🤺</li>
