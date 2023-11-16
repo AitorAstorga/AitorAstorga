@@ -11,7 +11,7 @@
   <li>🈺 I’m currently working at <b>AEG Power Solutions</b></li>
   <li>📚 I’m currently studying a <b>Master's Degree in Cybersecurity and Privacy</b> at <b>UOC (Universitat Oberta de Catalunya)</b></li>
   <li>💻 I'm a <b>Graduate in Computer Science</b> by <b>Mondragon Unibertsitatea</b></li>
-  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and  <a href="https://www.aichan.ovh">aichan.ovh</a></li>
+  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and  <a href="https://aichan.ovh">aichan.ovh</a></li>
 </ul>
   
 <table>
