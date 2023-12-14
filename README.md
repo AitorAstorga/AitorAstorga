@@ -99,6 +99,12 @@
     <td>JavaScript</td>
     <td>Scripts for use with the Tampermonkey web browser plugin</td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/AitorAstorga/RandomNumberGenerator">Random Number Generator</a></td>
+    <td>2023</td>
+    <td>TypeScript</td>
+    <td>Ionic app that generates configurable random numbers</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/Thadah">Thadah D. Denyse</a></td>
     <td>∞</td>
