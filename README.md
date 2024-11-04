@@ -6,7 +6,7 @@
     alt="aitorastorga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aitorastorga&margin-w=15&column=7"
+    <img src="https://github-profile-trophy.vercel.app/?username=aitorastorga&margin-w=15&column=6&title=-Issues,-Reviews,-PullRequest"
       alt="aitorastorga" />
   </a> </p>
 
