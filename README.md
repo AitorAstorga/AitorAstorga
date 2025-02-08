@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Aitor</h1>
 <h3 align="center">A dev from the Basque Country 🇪🇺</h3>
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=aitorastorga&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aitorastorga" /> </p>
+<p align="left">  <img 
+    src="https://visitcounter.aichan.ovh/counter/AitorAstorga/svg?label=Profile%20Views" height=20
+    alt="Visit Counter" /> </p>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aitorastorga&margin-w=15&column=6&title=-Issues,-Reviews,-PullRequest"
@@ -18,8 +19,7 @@
   </li>
   <li>💻 I'm a <b>Graduate in Computer Science</b> by <b>Mondragon Unibertsitatea</b>
   </li>
-  <li>📄 My cv is available at <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a> and <a
-      href="https://aichan.ovh">aichan.ovh</a>
+  <li>📄 My cv is available at <a href="https://aichan.ovh">aichan.ovh</a> and <a href="https://aitorastorga.github.io/cv">aitorastorga.github.io/cv</a>
   </li>
 </ul>
 
@@ -185,6 +185,14 @@
           src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
           height="20" /> </a></td>
     <td>A string randomizer inspired by V/Vm HelpAphexTwin4.0 that creates random songlists or transforms any input. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AitorAstorga/visit_counter">Visit Counter</a></td>
+    <td>2025</td>
+    <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
+          height="20" /> </a></td>
+    <td>A self‑hostable API in Rust for tracking website visits and generating customizable SVG counters.</td>
   </tr>
   <tr>
     <td>
