@@ -167,7 +167,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AitorAstorga/Image-Gallery">Image Gallery</a>
+      <a href="https://github.com/AitorAstorga/Image-Gallery">[ARCHIVED] Image Gallery</a>
     </td>
     <td>2024</td>
     <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -191,8 +191,23 @@
     <td>2025</td>
     <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
           src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
-          height="20" /> </a></td>
+          height="20" /> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"
+            alt="docker" width="20" height="20" /> </a></td>
     <td>A self‑hostable API in Rust for tracking website visits and generating customizable SVG counters.</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AitorAstorga/image_gallery">Image Gallery</a>
+    </td>
+    <td>2025</td>
+    <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
+          height="20" /> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="bash" width="20" height="20" /> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"
+            alt="docker" width="20" height="20" /> </a></td>
+    <td> Simple HTML / CSS / Webasm (<a href="https://yew.rs/">Rust Yew</a>) image gallery made for <a href="https://michi.blue/">my cat</a> and deployed with Docker. </td>
   </tr>
   <tr>
     <td>
