@@ -211,6 +211,19 @@
   </tr>
   <tr>
     <td>
+      <a href="https://git.prisma.moe/aichan/simple_web_editor">Simple Web Editor</a>
+    </td>
+    <td>2025</td>
+    <td><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img
+          src="https://github.com/tandpfun/skill-icons/raw/main/icons/Rust.svg" alt="rust" width="20"
+          height="20" /> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="bash" width="20" height="20" /> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg"
+            alt="docker" width="20" height="20" /> </a></td>
+    <td> Simple HTML / CSS / Webasm (<a href="https://yew.rs/">Rust Yew</a>) web-based editor alternative to GitHub Actions for self-hosting deployed with Docker. </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Thadah">Thadah D. Denyse</a>
     </td>
     <td>∞</td>
