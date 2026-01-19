@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Aitor</h1>
 <h3 align="center">A dev from the Basque Country 🇪🇺</h3>
+<h3>Important note: I am a firm advocate for self-hosting and by the end of 2025 I had already abandoned GitHub. I maintain this profile and existing repositories only as a mirror, but any new activity is done in my personal Forgejo instance. You are welcome to try this too, it is surprisingly easy to set up and has all the same functionality as you expect from GitHub. Check my Forgejo at <a href="https://git.prisma.moe/aichan">git.prisma.moe/aichan</a></h3>
 
 <p align="left">  <img 
     src="https://visitcounter.aichan.ovh/counter/AitorAstorga/svg?label=Profile%20Views" height=20
